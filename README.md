@@ -2,6 +2,8 @@
 
 Repository to track a walkthrough of Kubernetes.  This will be a folder of YAML files that are meant to be used with Kubernetes.
 
+Video walkthrough can be found here: https://www.youtube.com/watch?v=X48VuDVv0do&t=6376s
+
 # Technologies Used
 
 - Kubernetes
